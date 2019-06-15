@@ -1,0 +1,1 @@
+This project focuses on the different permissions allowed for file owners, groups and users. It will teach students how to change said permissions as well as, how tochange user id's, change ownership of files, change groups etc. All work will be in the Shell.   
