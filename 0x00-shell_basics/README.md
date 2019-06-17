@@ -1,0 +1,1 @@
+This project is meant to show students the basics of working in the shell. Using hands-on training to better familiarize themselves with the shell's basic functions.  
